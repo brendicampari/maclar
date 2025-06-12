@@ -1,5 +1,6 @@
-
 Symbol=USDSEK
-Status=off
+Status=on
+LotReset=true
 SetLot=0.01
 ClosePosition=false
+Message=Bu EA test modunda çalışıyor. Lütfen pozisyon açmayın.
