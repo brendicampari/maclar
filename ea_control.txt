@@ -2,4 +2,4 @@
 Symbol=USDSEK
 Status=off
 SetLot=0.01
-ClosePosition=true
+ClosePosition=false
